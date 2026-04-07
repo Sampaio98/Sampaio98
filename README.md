@@ -48,11 +48,9 @@ high-performance microservices and scalable solutions for millions of users.
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sampaio98&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sampaio98&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sampaio98&theme=tokyonight)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sampaio98&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sampaio98&theme=github_dark" width="48%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sampaio98&theme=github_dark" width="48%"/>
 </div>
 
 
