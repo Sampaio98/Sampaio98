@@ -3,9 +3,10 @@
 ## 🚀 About Me
 Senior Backend Software Engineer with 7+ years of experience in Financial Systems Development, specializing in high-performance microservices and scalable solutions for millions of users.
 
-- 🔭 Currently working as Senior Backend Software Engineer
+- 🔭 Currently working as a Senior Software Backend Engineer
 - 💼 Leading development teams and designing scalable backend solutions
 - 🏦 Expert in banking systems, card features, and payment processing
+- 📍 100% Remote position
 
 ## 💻 Tech Stack
 
@@ -32,4 +33,34 @@ Senior Backend Software Engineer with 7+ years of experience in Financial System
 
 **Cloud & DevOps:**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white)
+
+**Monitoring:**
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sampaio98&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sampaio98&layout=compact&theme=dark&hide_border=true)
+
+## 🏆 Highlights
+
+- 🎯 Redesigned card automatic debit process handling **1M+ messages**
+- 💰 Reduced **200k requests/month**, saving costs and improving performance
+- 👥 Led software engineering team for **2+ years**
+- 🏗️ Built scalable microservices with **event-driven architecture**
+- 📈 Delivered solutions serving **millions of users**
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allisson-sampaio)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:allissonsampaio98@gmail.com)
+
+---
+
+⭐️ From [Sampaio98](https://github.com/Sampaio98)
