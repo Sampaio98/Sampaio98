@@ -6,7 +6,7 @@ Senior Backend Software Engineer with 7+ years of experience in Financial System
 high-performance microservices and scalable solutions for millions of users.
 
 - 🔭 Currently working as a Senior Software Backend Engineer
-- 💼 Leading development teams and designing scalable backend solutions
+- 💼 Designing scalable backend solutions
 - 🏦 Expert in banking systems, card features, and payment processing
 - 📍 100% Remote position
 
