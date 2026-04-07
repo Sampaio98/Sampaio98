@@ -1,7 +1,9 @@
 # Hi there, I'm Allisson Sampaio 👋
 
 ## 🚀 About Me
-Senior Backend Software Engineer with 7+ years of experience in Financial Systems Development, specializing in high-performance microservices and scalable solutions for millions of users.
+
+Senior Backend Software Engineer with 7+ years of experience in Financial Systems Development, specializing in
+high-performance microservices and scalable solutions for millions of users.
 
 - 🔭 Currently working as a Senior Software Backend Engineer
 - 💼 Leading development teams and designing scalable backend solutions
@@ -44,10 +46,15 @@ Senior Backend Software Engineer with 7+ years of experience in Financial System
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sampaio98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampaio98&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sampaio98&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sampaio98&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sampaio98&theme=tokyonight)
+
+</div>
+
 
 ## 🏆 Highlights
 
